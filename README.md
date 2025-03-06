@@ -1,1 +1,1 @@
-# Power_Bi_Dashboard
+Mobile Sales Dashboard provides an interactive and visual representation of mobile phone sales performance. It includes key metrics such as Total Sales, Total Quantity Sold, Transactions, and Average Price. The dashboard allows filtering by Mobile Model, Payment Method and Brand making it easy to analyze sales trends.
